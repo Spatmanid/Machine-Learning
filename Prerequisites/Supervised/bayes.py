@@ -51,8 +51,7 @@ def main():
     Ntrain = len(Y) // 2
     Xtrain, Ytrain = X[:Ntrain], Y[:Ntrain]
     Xtest, Ytest = X[Ntrain:], Y[Ntrain:]
-   
-    print("BAYES")
+
     model = Bayes()
     t0 = datetime.now()
     model.fit(Xtrain, Ytrain)

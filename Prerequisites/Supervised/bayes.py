@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from sortedcontainers import SortedList
 from datetime import datetime
 from scipy.stats import multivariate_normal as mvn
 

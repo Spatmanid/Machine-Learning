@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sortedcontainers import SortedList
 from datetime import datetime
-from future.utils import iteritems
 
 
 def get_data(limit=None):

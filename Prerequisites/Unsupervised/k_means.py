@@ -44,7 +44,7 @@ def plot_k_means(X, K, max_iter=20, beta=1.0, show_plots=True):
     return M, R
 
 
-def get_simple_data():
+def get_data():
     N, D, s = 900, 2, 5 
     mu1 = np.array([0, 0])
     mu2 = np.array([s, s])
@@ -57,7 +57,7 @@ def get_simple_data():
 
 
 def main():
-    X = get_simple_data()
+    X = get_data()
     plt.scatter(X[:,0], X[:,1])
     plt.show()
     K = 3

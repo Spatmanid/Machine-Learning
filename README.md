@@ -4,4 +4,6 @@ My name is Spyros. I received my PhD in Electrical and Computer Engineering from
 
 You can find the courses I mentioned earlier with many more interesting courses in the following link. If you are interested in Data Science, Machine Learning, Deep Learning, etc., I highly recommend you take these courses.
 
+https://lazyprogrammer.me/
 https://lazyprogrammer.me/deep-learning-courses/
+https://www.udemy.com/user/lazy-programmer/

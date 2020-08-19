@@ -1,8 +1,8 @@
 # Welcome to my Programming repository!
 
-My name is Spyros. I received my PhD in Electrical and Computer Engineering from the National Technical University of Athens, Greece. In this repository, I will upload the code from problems I solved during some very interesting online Machine Learning Courses. In the future, I may add more applications and machine learning problems.
+My name is Spyros. I received my PhD in Electrical and Computer Engineering from the National Technical University of Athens, Greece. In this repository, I will upload the code from problems that I solved for online machine learning challenges or during some very interesting online Machine Learning Courses. In the future, I may add more applications and machine learning problems.
 
-You can find the courses I mentioned earlier with many more interesting courses in the following link. If you are interested in Data Science, Machine Learning, Deep Learning, etc., I highly recommend you take these courses.
+You can find great Machine Learning courses in the following links. If you are interested in Data Science, Machine Learning, Deep Learning, etc., I highly recommend you take these courses.
 
 https://lazyprogrammer.me/
 
